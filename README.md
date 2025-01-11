@@ -1,4 +1,11 @@
 # Server Configuration
+### Install nodejs and npm
+```sh
+sudo apt install nodejs
+sudo apt install npm
+node -v
+```
+
 ### Nginx configuration
 change ww-data to username
 
